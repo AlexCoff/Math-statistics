@@ -1,1 +1,1 @@
-# math_analitics
+# Math statistics
